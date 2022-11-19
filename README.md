@@ -1,1 +1,1 @@
-# Django mailer
+# Mailman Django
